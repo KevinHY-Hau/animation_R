@@ -5,7 +5,7 @@ library(scales)
 library(RColorBrewer)
 
 # number of square wrap around the points
-l <- 180
+l <- 220
 
 # variations
 v <- 0.05
