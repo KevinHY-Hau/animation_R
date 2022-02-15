@@ -75,4 +75,4 @@ saveGIF({
     }
     ani.pause()   
   }
-}, movie.name = "NFT_grid_pt.gif", img.name = "NFT_grid_pt", convert = "magick", cmd.fun, clean = TRUE)
+}, movie.name = "grid_pt.gif", img.name = "grid_pt", convert = "magick", cmd.fun, clean = TRUE)
